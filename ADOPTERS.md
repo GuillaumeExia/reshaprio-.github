@@ -18,3 +18,4 @@ This document also lists the organizations using reShapr based on public informa
 
 | Organization | Contact | Adopter type | Description of Use / Reference |
 |---------------------|---------------------|---------------------|-----------------------------------------------------------------------------------|
+| Guillaume Goisset (independent DevOps consultant) | [@GuillaumeExia](https://github.com/GuillaumeExia) | Consultancy | Builds and runs reShapr MCP gateways for client projects: PayCaptain (UK payroll API), Resourced Catalog (read-only PLM catalog search), Sync Check (catalog search plus article sync to Shopify on one endpoint, using cross-service scripted tools), and Feedback. Reference: [reshapr-agent-skills](https://github.com/GuillaumeExia/reshapr-agent-skills). |
